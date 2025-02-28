@@ -1,0 +1,24 @@
+# Icon repository
+t3dn-bip==1.0.9
+
+# Effect & Presets, Schema
+jsonschema==4.6.0
+attrs==24.2.0
+pyrsistent==0.20.0
+
+# Anonymous UserData
+mixpanel==4.10.1
+six==1.16.0
+    # urllib3==2.2.3 # Already pre-installed in Blender
+    # requests>=2.4.2 
+        # charset-normalizer==3.4.0
+        # idna==3.10
+        # certifi==2024.8.30
+
+# Error/Crash Reporting
+sentry-sdk==1.5.4
+    # certifi==2024.8.30 # Already pre-installed in Blender
+    # urllib3==2.2.3
+
+# Image conversion
+pillow==11.0.0
